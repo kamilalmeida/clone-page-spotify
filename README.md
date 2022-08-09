@@ -3,7 +3,7 @@
 Clonei a page do spotify para praticar, CSS, HTML semântico e responsividade.
 
 ## Acesse o link da aplicação em produção. 
-https://bankpalm.vercel.app/
+https://clone-page-spotify-nine.vercel.app/
 
 ## Visualização
 
