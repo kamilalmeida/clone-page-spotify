@@ -221,10 +221,14 @@ p {
     border-right: none;
   }
 
-  img {
+   img {
     height: 1.5rem;
     width: auto;
     margin-left: 20px;
+  }
+
+  .logo-footer{
+    margin-left: 0;
   }
 
   #navbar .nav-container {
